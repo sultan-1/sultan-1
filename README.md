@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sultan-1
+- 👋 Hi, I’m Sultan
 - 👀 I’m interested in Data science, web application and mobile application.
 - 🌱 I’m currently learning Deep learning.
 - 💞️ I’m looking to collaborate on computer science field or any others related.
